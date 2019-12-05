@@ -7,7 +7,7 @@ coderedcms==0.16.3
 configobj==5.0.6
 cryptography==1.7.1
 decorator==4.4.0
-Django==2.2.6
+Django==2.2.8
 django-bootstrap4==1.0.1
 django-eventtools==0.9.11
 django-modelcluster==4.4
