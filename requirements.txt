@@ -5,7 +5,7 @@ Click==7.0
 cloud-init==0.7.9
 coderedcms==0.16.3
 configobj==5.0.6
-cryptography==1.7.1
+cryptography==3.2
 decorator==4.4.0
 Django==2.2.6
 django-bootstrap4==1.0.1
