@@ -13,7 +13,7 @@ django-eventtools==0.9.11
 django-modelcluster==4.4
 django-taggit==0.24.0
 django-treebeard==4.3
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 draftjs-exporter==2.1.7
 future==0.18.0
 geocoder==1.38.1
