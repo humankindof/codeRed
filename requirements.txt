@@ -21,7 +21,7 @@ gunicorn==19.9.0
 html5lib==1.0.1
 icalendar==4.0.3
 idna==2.2
-Jinja2==2.8
+Jinja2==2.11.3
 jsonpatch==1.10
 jsonpointer==1.10
 keyring==10.1
